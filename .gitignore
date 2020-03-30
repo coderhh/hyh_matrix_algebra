@@ -1,0 +1,6 @@
+/build
+/build/lib/hyh_matrix_algebra
+/dist
+/hyh_matrix_algebra/__pycache__
+
+*.egg-info
